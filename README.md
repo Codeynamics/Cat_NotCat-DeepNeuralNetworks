@@ -45,7 +45,7 @@ This project is inspired by the **"Neural Networks and Deep Learning"** course b
 ## Contact
 
 For queries, discussions, or collaboration, feel free to reach out:  
-- **LinkedIn**: [Harish Jayaraj](https://linkedin.com/in/harish-jayaraj)  
+- **LinkedIn**: [Harish Jayaraj](https://www.linkedin.com/in/harish-jayaraj-p-60a189195/)
 - **Email**: codeynamics@gmail.com 
 
 ---
